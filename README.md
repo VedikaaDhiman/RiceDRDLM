@@ -1,5 +1,8 @@
 # Deep learning-based model predicting resistance proteins in rice and related species
 
+
+![Graphical abstract](https://github.com/VedikaaDhiman/Deep-learning-based-model-predicting-resistance-proteins-in-rice-and-related-species/blob/main/Abstract.png?raw=true)
+
 Rice (_Oryza sativa_) is a significant agricultural crop consumed by more than half of the global population. Moreover, it is severely affected by biotic stresses, reducing yield losses. Developing disease-resistant varieties is the best-suited way to counter these stresses, and this can be done through the identification of the disease-resistance proteins. Thus, a Deep Learning model is developed in rice and its related species to accurately and rapidly identify such proteins, which will contribute to develope novel disease-resistant varieties in rice.
 
 # Data pre-processing, feature extraction and selection
