@@ -1,5 +1,3 @@
-# Deep learning-based model predicting resistance proteins in rice and related species
-
 
 ![Graphical abstract](https://github.com/VedikaaDhiman/Deep-learning-based-model-predicting-resistance-proteins-in-rice-and-related-species/blob/main/Abstract.png?raw=true)
 
