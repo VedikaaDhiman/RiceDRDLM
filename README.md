@@ -1,1 +1,1 @@
-# MLP-Model-for-Classification-of-R-proteins-in-Oryza-sativa
+# Deep learning-based model predicting resistance proteins in rice and related species
