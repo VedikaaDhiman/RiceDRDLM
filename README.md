@@ -13,7 +13,7 @@ The pre-processing, feature extraction and selection were performed in the R pro
 3. ```merge_matrix.R```: Script for merging every single feature matrix generated from the feature extraction steps into a single matrix
 4. ```feature_selection_fscore_libsvm.py```: Script for feature selection on the extracted features by libSVM (https://github.com/cjlin1/libsvm)
 
-## DL Model Building
+# DL Model Building
 
 The Deep Learning model is developed and cross-validated in the Jupyter Notebook and is described in the following script:
 ```Deep learning-based model predicting resistance proteins in rice and related species.ipynb```: Script for model development and its validation
