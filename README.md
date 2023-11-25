@@ -15,6 +15,4 @@ The pre-processing, feature extraction and selection were performed in the R pro
 
 The Deep Learning model is developed and cross-validated in the Jupyter Notebook and is described in the following script:
 ```Deep learning-based model predicting resistance proteins in rice and related species.ipynb```: Script for model development and its validation
-![Uploading Abstract.png…]()
 
-![My image](/home/pylab/Downloads/Abstract.png)
